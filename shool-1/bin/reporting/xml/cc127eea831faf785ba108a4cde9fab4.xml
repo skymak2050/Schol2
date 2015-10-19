@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<graph>
+<general_settings bg_color="ffffff" showAnchor="1" showArea="0" type_animation="1">
+<header text="Monthly Leave (last 3 years)" font="Verdana" color="000000" size="18" />
+<subheader text="" font="Verdana" color="000000" size="14" />
+<legend font="Verdana" color="000000" font_size="11" />
+<legend_popup font="Verdana" bgcolor="FFFFE3" font_size="10" />
+<Xheaders rotate="0" color="000000" size="10" title="" title_color="000000" />
+<Yheaders color="000000" size="10" title="" title_rotate="90" title_color="000000" />
+<grid showX="1" showY="1" persent_stepY_from_stepX="120" grid_width="550" grid_height="250" grid_color="000000" grid_alpha="20" grid_thickness="1" bg_color="ffffff" bg_alpha="100" alternate_bg_color="ffffff" border_color="000000" border_thickness="2" />
+</general_settings>
+<abscissa_data>
+<x value="Jan" />
+<x value="Feb" />
+<x value="Mar" />
+<x value="Apr" />
+<x value="May" />
+<x value="Jun" />
+<x value="Jul" />
+<x value="Aug" />
+<x value="Sep" />
+<x value="Oct" />
+<x value="Nov" />
+<x value="Dec" />
+</abscissa_data>
+</graph>

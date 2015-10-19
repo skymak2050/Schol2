@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<graph>
+  <general_settings bg_color="ffffff" />
+  <header text="Current Year Leave Categories" font="Verdana" color="000000" size="18" />
+  <subheader text="" font="Verdana" color="000000" size="14" />
+  <legend font="Verdana" font_color="000000" font_size="11" bgcolor="FFFFFF" alternate_bg_color="FFF9E1" border_color="BFBFBF" />
+  <legend_popup font="Verdana" bgcolor="FFFFE3" font_size="10" />
+  <pie_chart radius="120" height="35" angle_slope="45" alpha_sides="60" alpha_lines="20"/>
+
+    <data name="Annual Leave" value="60" color="175BE3" />
+    <data name="Emergency Leave" value="20" color="FFB31A" />
+    <data name="Maternity Leave" value="20" color="3C3C3C" />
+</graph>
